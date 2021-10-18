@@ -1,0 +1,112 @@
+{
+  "conformsTo": "https://project-open-data.cio.gov/v1.1/schema", 
+  "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json", 
+  "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld", 
+  "@type": "dcat:Catalog", 
+  "@id": "http://ckan-dev:5000/data.json", 
+  "dataset": [
+    {
+      "@type": "dcat:Dataset", 
+      "title": "Data centric (1)", 
+      "description": "Test data acentric on how it works", 
+      "modified": "2021-10-18T21:33:56.630893", 
+      "accessLevel": "public", 
+      "identifier": "a29b7b05-ff29-4def-9b68-32d7ff85d3de", 
+      "dataQuality": true, 
+      "license": "http://www.opendefinition.org/licenses/cc-by", 
+      "temporal": "2021-10-22/2021-10-24", 
+      "publisher": {
+        "@type": "org:Organization", 
+        "name": "Advisory Committee on Student Financial Assistance (ACSFA)", 
+        "subOrganizationOf": {
+          "@type": "org:Organization", 
+          "name": "Office of Federal Student Aid (FSA)", 
+          "subOrganizationOf": {
+            "@type": "org:Organization", 
+            "name": "U.S. Government"
+          }
+        }
+      }, 
+      "accrualPeriodicity": "R/P10Y", 
+      "contactPoint": {
+        "@type": "vcard:Contact", 
+        "fn": "stephen", 
+        "hasEmail": "mailto:stephen.datopian@gmail.com"
+      }, 
+      "distribution": [
+        {
+          "@type": "dcat:Distribution", 
+          "mediaType": "text/csv", 
+          "format": "CSV", 
+          "title": "abcTest 2.csv", 
+          "description": "testetst", 
+          "downloadURL": "http://ckan-dev:5000/dataset/a29b7b05-ff29-4def-9b68-32d7ff85d3de/resource/272b5c0d-4c40-4c61-8c0c-f9ee579e901b/download/abctest-2.csv"
+        }
+      ], 
+      "isPartOf": "data-centric", 
+      "keyword": [
+        "acsfa", 
+        "agric", 
+        "economy", 
+        "test"
+      ], 
+      "bureauCode": [
+        "018:15"
+      ], 
+      "programCode": [
+        "018:003"
+      ]
+    }, 
+    {
+      "@type": "dcat:Dataset", 
+      "title": "Data centric", 
+      "description": "Test data acentric on how it works", 
+      "modified": "2021-10-18T21:31:39.224744", 
+      "accessLevel": "public", 
+      "identifier": "be08db6d-a0f6-42a4-9f58-e2bed840fba4", 
+      "dataQuality": true, 
+      "license": "http://www.opendefinition.org/licenses/cc-by", 
+      "temporal": "2021-10-22/2021-10-24", 
+      "publisher": {
+        "@type": "org:Organization", 
+        "name": "Advisory Committee on Student Financial Assistance (ACSFA)", 
+        "subOrganizationOf": {
+          "@type": "org:Organization", 
+          "name": "Office of Federal Student Aid (FSA)", 
+          "subOrganizationOf": {
+            "@type": "org:Organization", 
+            "name": "U.S. Government"
+          }
+        }
+      }, 
+      "accrualPeriodicity": "R/P10Y", 
+      "contactPoint": {
+        "@type": "vcard:Contact", 
+        "fn": "stephen", 
+        "hasEmail": "mailto:stephen.datopian@gmail.com"
+      }, 
+      "distribution": [
+        {
+          "@type": "dcat:Distribution", 
+          "mediaType": "text/csv", 
+          "format": "CSV", 
+          "title": "abcTest12.csv", 
+          "description": "Test resources", 
+          "downloadURL": "http://ckan-dev:5000/dataset/be08db6d-a0f6-42a4-9f58-e2bed840fba4/resource/bbc15556-9bdf-4f46-9047-49722ad0aae5/download/abctest12.csv"
+        }
+      ], 
+      "keyword": [
+        "acsfa", 
+        "agric", 
+        "economy", 
+        "test"
+      ], 
+      "bureauCode": [
+        "018:15"
+      ], 
+      "programCode": [
+        "018:003"
+      ]
+    }
+  ]
+}
