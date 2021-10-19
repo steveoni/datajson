@@ -43,7 +43,7 @@
           "downloadURL": "http://ckan-dev:5000/dataset/a29b7b05-ff29-4def-9b68-32d7ff85d3de/resource/272b5c0d-4c40-4c61-8c0c-f9ee579e901b/download/abctest-2.csv"
         }
       ], 
-      "isPartOf": "be08db6d-a0f6-42a4-9f58-e2bed840fba4", 
+      "isPartOf": "data-centric", 
       "keyword": [
         "acsfa", 
         "agric", 
