@@ -7,162 +7,11 @@
   "dataset": [
     {
       "@type": "dcat:Dataset", 
-      "title": "bbbcvjhgthdtd (3)", 
-      "description": "jvhjcjgfyfyfjyf", 
-      "modified": "2021-10-22T00:03:36.799252", 
+      "title": "Testinging Profiles again (1)", 
+      "description": "Testing Data Profiles again", 
+      "modified": "2021-10-25T19:42:42.806710", 
       "accessLevel": "public", 
-      "identifier": "e0ba013b-68c0-4c6d-b2ff-c2abcb5ebd10", 
-      "license": "http://www.opendefinition.org/licenses/cc-by", 
-      "publisher": {
-        "@type": "org:Organization", 
-        "name": "Advisory Committee on Student Financial Assistance (ACSFA)", 
-        "subOrganizationOf": {
-          "@type": "org:Organization", 
-          "name": "Office of Federal Student Aid (FSA)", 
-          "subOrganizationOf": {
-            "@type": "org:Organization", 
-            "name": "U.S. Government"
-          }
-        }
-      }, 
-      "contactPoint": {
-        "@type": "vcard:Contact", 
-        "fn": "stephen", 
-        "hasEmail": "mailto:sten.datopian@gmail.com"
-      }, 
-      "isPartOf": "bbbcvjhgthdtd-2", 
-      "keyword": [
-        "acsfa", 
-        "economy"
-      ], 
-      "bureauCode": [
-        "018:15"
-      ], 
-      "programCode": [
-        "018:006"
-      ], 
-      "pkg_nameid": "bbbcvjhgthdtd-3"
-    }, 
-    {
-      "@type": "dcat:Dataset", 
-      "title": "bbbcvjhgthdtd (2)", 
-      "description": "jvhjcjgfyfyfjyf", 
-      "modified": "2021-10-21T23:48:05.983088", 
-      "accessLevel": "public", 
-      "identifier": "33f94ee3-45c4-4ec9-8566-49d7958335ca", 
-      "license": "http://www.opendefinition.org/licenses/cc-by", 
-      "publisher": {
-        "@type": "org:Organization", 
-        "name": "Advisory Committee on Student Financial Assistance (ACSFA)", 
-        "subOrganizationOf": {
-          "@type": "org:Organization", 
-          "name": "Office of Federal Student Aid (FSA)", 
-          "subOrganizationOf": {
-            "@type": "org:Organization", 
-            "name": "U.S. Government"
-          }
-        }
-      }, 
-      "contactPoint": {
-        "@type": "vcard:Contact", 
-        "fn": "stephen", 
-        "hasEmail": "mailto:sten.datopian@gmail.com"
-      }, 
-      "isPartOf": "bbbcvjhgthdtd-1", 
-      "keyword": [
-        "acsfa", 
-        "economy"
-      ], 
-      "bureauCode": [
-        "018:15"
-      ], 
-      "programCode": [
-        "018:006"
-      ], 
-      "pkg_nameid": "bbbcvjhgthdtd-2"
-    }, 
-    {
-      "@type": "dcat:Dataset", 
-      "title": "bbbcvjhgthdtd (1)", 
-      "description": "jvhjcjgfyfyfjyf", 
-      "modified": "2021-10-21T23:47:41.354062", 
-      "accessLevel": "public", 
-      "identifier": "a501eedc-b633-44b5-bea1-4a92d5347c8f", 
-      "license": "http://www.opendefinition.org/licenses/cc-by", 
-      "publisher": {
-        "@type": "org:Organization", 
-        "name": "Advisory Committee on Student Financial Assistance (ACSFA)", 
-        "subOrganizationOf": {
-          "@type": "org:Organization", 
-          "name": "Office of Federal Student Aid (FSA)", 
-          "subOrganizationOf": {
-            "@type": "org:Organization", 
-            "name": "U.S. Government"
-          }
-        }
-      }, 
-      "contactPoint": {
-        "@type": "vcard:Contact", 
-        "fn": "stephen", 
-        "hasEmail": "mailto:sten.datopian@gmail.com"
-      }, 
-      "isPartOf": "bbbcvjhgthdtd", 
-      "keyword": [
-        "acsfa", 
-        "economy"
-      ], 
-      "bureauCode": [
-        "018:15"
-      ], 
-      "programCode": [
-        "018:006"
-      ], 
-      "pkg_nameid": "bbbcvjhgthdtd-1"
-    }, 
-    {
-      "@type": "dcat:Dataset", 
-      "title": "bbbcvjhgthdtd", 
-      "description": "jvhjcjgfyfyfjyf", 
-      "modified": "2021-10-21T23:47:10.634947", 
-      "accessLevel": "public", 
-      "identifier": "ed187780-4b15-491c-b1e6-0160d39336c5", 
-      "license": "http://www.opendefinition.org/licenses/cc-by", 
-      "publisher": {
-        "@type": "org:Organization", 
-        "name": "Advisory Committee on Student Financial Assistance (ACSFA)", 
-        "subOrganizationOf": {
-          "@type": "org:Organization", 
-          "name": "Office of Federal Student Aid (FSA)", 
-          "subOrganizationOf": {
-            "@type": "org:Organization", 
-            "name": "U.S. Government"
-          }
-        }
-      }, 
-      "contactPoint": {
-        "@type": "vcard:Contact", 
-        "fn": "stephen", 
-        "hasEmail": "mailto:sten.datopian@gmail.com"
-      }, 
-      "keyword": [
-        "acsfa", 
-        "economy"
-      ], 
-      "bureauCode": [
-        "018:15"
-      ], 
-      "programCode": [
-        "018:006"
-      ], 
-      "pkg_nameid": "bbbcvjhgthdtd"
-    }, 
-    {
-      "@type": "dcat:Dataset", 
-      "title": "ttteteteteteatatdt (2)", 
-      "description": "cvvveeveve", 
-      "modified": "2021-10-21T23:46:04.386133", 
-      "accessLevel": "public", 
-      "identifier": "0cbfdb25-20ac-4e69-8e49-8ba20349967c", 
+      "identifier": "e4c74ca3-38c8-41c0-b16f-96db9f9ea484", 
       "license": "http://www.opendefinition.org/licenses/cc-by", 
       "publisher": {
         "@type": "org:Organization", 
@@ -181,64 +30,27 @@
         "fn": "stephen", 
         "hasEmail": "mailto:stephen.datopian@gmail.com"
       }, 
-      "isPartOf": "ttteteteteteatatdt-1", 
+      "isPartOf": "91f06ed1-6c44-4c16-ba83-96a81d03aeee", 
       "keyword": [
         "acsfa", 
-        "economy"
+        "food", 
+        "hunger", 
+        "testing"
       ], 
       "bureauCode": [
         "018:15"
       ], 
       "programCode": [
-        "018:001"
-      ], 
-      "pkg_nameid": "ttteteteteteatatdt-2"
+        "018:002"
+      ]
     }, 
     {
       "@type": "dcat:Dataset", 
-      "title": "ttteteteteteatatdt (1)", 
-      "description": "cvvveeveve", 
-      "modified": "2021-10-21T23:45:30.103540", 
+      "title": "Testinging Profiles again", 
+      "description": "Testing Data Profiles again", 
+      "modified": "2021-10-25T19:42:15.193881", 
       "accessLevel": "public", 
-      "identifier": "ee778f20-aca1-40c5-bc9e-e2d873d64880", 
-      "license": "http://www.opendefinition.org/licenses/cc-by", 
-      "publisher": {
-        "@type": "org:Organization", 
-        "name": "Advisory Committee on Student Financial Assistance (ACSFA)", 
-        "subOrganizationOf": {
-          "@type": "org:Organization", 
-          "name": "Office of Federal Student Aid (FSA)", 
-          "subOrganizationOf": {
-            "@type": "org:Organization", 
-            "name": "U.S. Government"
-          }
-        }
-      }, 
-      "contactPoint": {
-        "@type": "vcard:Contact", 
-        "fn": "stephen", 
-        "hasEmail": "mailto:stephen.datopian@gmail.com"
-      }, 
-      "isPartOf": "ttteteteteteatatdt", 
-      "keyword": [
-        "acsfa", 
-        "economy"
-      ], 
-      "bureauCode": [
-        "018:15"
-      ], 
-      "programCode": [
-        "018:001"
-      ], 
-      "pkg_nameid": "ttteteteteteatatdt-1"
-    }, 
-    {
-      "@type": "dcat:Dataset", 
-      "title": "ttteteteteteatatdt", 
-      "description": "cvvveeveve", 
-      "modified": "2021-10-21T23:09:13.571113", 
-      "accessLevel": "public", 
-      "identifier": "824023e0-eea9-4b29-a460-47f057b8172f", 
+      "identifier": "91f06ed1-6c44-4c16-ba83-96a81d03aeee", 
       "license": "http://www.opendefinition.org/licenses/cc-by", 
       "publisher": {
         "@type": "org:Organization", 
@@ -259,6 +71,47 @@
       }, 
       "keyword": [
         "acsfa", 
+        "food", 
+        "hunger", 
+        "testing"
+      ], 
+      "bureauCode": [
+        "018:15"
+      ], 
+      "programCode": [
+        "018:002"
+      ]
+    }, 
+    {
+      "@type": "dcat:Dataset", 
+      "title": "Test DataProfile (3)", 
+      "description": "Testing data profile 3", 
+      "modified": "2021-10-25T19:40:22.872801", 
+      "accessLevel": "public", 
+      "identifier": "ad0411d4-cf92-4416-a189-6357f239e949", 
+      "dataQuality": true, 
+      "license": "http://www.opendefinition.org/licenses/cc-by", 
+      "publisher": {
+        "@type": "org:Organization", 
+        "name": "Advisory Committee on Student Financial Assistance (ACSFA)", 
+        "subOrganizationOf": {
+          "@type": "org:Organization", 
+          "name": "Office of Federal Student Aid (FSA)", 
+          "subOrganizationOf": {
+            "@type": "org:Organization", 
+            "name": "U.S. Government"
+          }
+        }
+      }, 
+      "contactPoint": {
+        "@type": "vcard:Contact", 
+        "fn": "stephen", 
+        "hasEmail": "mailto:stephen.datopian@gmail.com"
+      }, 
+      "isPartOf": "367f5f60-5b12-4186-826a-bdc8450d77f0", 
+      "keyword": [
+        "acsfa", 
+        "agric", 
         "economy"
       ], 
       "bureauCode": [
@@ -266,8 +119,124 @@
       ], 
       "programCode": [
         "018:001"
+      ]
+    }, 
+    {
+      "@type": "dcat:Dataset", 
+      "title": "Test DataProfile (2)", 
+      "description": "Testing data profile 2", 
+      "modified": "2021-10-25T19:39:28.078436", 
+      "accessLevel": "public", 
+      "identifier": "ffa844f7-4973-44a9-835e-6cbe6909f873", 
+      "dataQuality": true, 
+      "license": "http://www.opendefinition.org/licenses/cc-by", 
+      "publisher": {
+        "@type": "org:Organization", 
+        "name": "Advisory Committee on Student Financial Assistance (ACSFA)", 
+        "subOrganizationOf": {
+          "@type": "org:Organization", 
+          "name": "Office of Federal Student Aid (FSA)", 
+          "subOrganizationOf": {
+            "@type": "org:Organization", 
+            "name": "U.S. Government"
+          }
+        }
+      }, 
+      "contactPoint": {
+        "@type": "vcard:Contact", 
+        "fn": "stephen", 
+        "hasEmail": "mailto:stephen.datopian@gmail.com"
+      }, 
+      "isPartOf": "c524c75a-56de-44e0-9baf-bde9e90e367b", 
+      "keyword": [
+        "acsfa", 
+        "agric", 
+        "economy", 
+        "safety"
       ], 
-      "pkg_nameid": "ttteteteteteatatdt"
+      "bureauCode": [
+        "018:15"
+      ], 
+      "programCode": [
+        "018:001"
+      ]
+    }, 
+    {
+      "@type": "dcat:Dataset", 
+      "title": "Test DataProfile (1)", 
+      "description": "Testing data profile 1", 
+      "modified": "2021-10-25T19:38:42.560345", 
+      "accessLevel": "public", 
+      "identifier": "c524c75a-56de-44e0-9baf-bde9e90e367b", 
+      "dataQuality": true, 
+      "license": "http://www.opendefinition.org/licenses/cc-by", 
+      "publisher": {
+        "@type": "org:Organization", 
+        "name": "Advisory Committee on Student Financial Assistance (ACSFA)", 
+        "subOrganizationOf": {
+          "@type": "org:Organization", 
+          "name": "Office of Federal Student Aid (FSA)", 
+          "subOrganizationOf": {
+            "@type": "org:Organization", 
+            "name": "U.S. Government"
+          }
+        }
+      }, 
+      "contactPoint": {
+        "@type": "vcard:Contact", 
+        "fn": "stephen", 
+        "hasEmail": "mailto:stephen.datopian@gmail.com"
+      }, 
+      "isPartOf": "367f5f60-5b12-4186-826a-bdc8450d77f0", 
+      "keyword": [
+        "acsfa", 
+        "agric", 
+        "economy"
+      ], 
+      "bureauCode": [
+        "018:15"
+      ], 
+      "programCode": [
+        "018:001"
+      ]
+    }, 
+    {
+      "@type": "dcat:Dataset", 
+      "title": "Test DataProfile", 
+      "description": "Testing data profile", 
+      "modified": "2021-10-25T19:38:06.563084", 
+      "accessLevel": "public", 
+      "identifier": "367f5f60-5b12-4186-826a-bdc8450d77f0", 
+      "dataQuality": true, 
+      "license": "http://www.opendefinition.org/licenses/cc-by", 
+      "publisher": {
+        "@type": "org:Organization", 
+        "name": "Advisory Committee on Student Financial Assistance (ACSFA)", 
+        "subOrganizationOf": {
+          "@type": "org:Organization", 
+          "name": "Office of Federal Student Aid (FSA)", 
+          "subOrganizationOf": {
+            "@type": "org:Organization", 
+            "name": "U.S. Government"
+          }
+        }
+      }, 
+      "contactPoint": {
+        "@type": "vcard:Contact", 
+        "fn": "stephen", 
+        "hasEmail": "mailto:stephen.datopian@gmail.com"
+      }, 
+      "keyword": [
+        "acsfa", 
+        "agric", 
+        "economy"
+      ], 
+      "bureauCode": [
+        "018:15"
+      ], 
+      "programCode": [
+        "018:001"
+      ]
     }
   ]
 }
