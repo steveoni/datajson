@@ -1,0 +1,95 @@
+{
+  "conformsTo": "https://project-open-data.cio.gov/v1.1/schema", 
+  "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json", 
+  "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld", 
+  "@type": "dcat:Catalog", 
+  "@id": "http://ckan-dev:5000/data.json", 
+  "dataset": [
+    {
+      "@type": "dcat:Dataset", 
+      "title": "Testinging Profiles again (1)", 
+      "description": "Testing Data Profiles again", 
+      "modified": "2021-10-25T19:42:42.806710", 
+      "accessLevel": "public", 
+      "identifier": "e4c74ca3-38c8-41c0-b16f-96db9f9ea484", 
+      "license": "http://www.opendefinition.org/licenses/cc-by", 
+      "publisher": {
+        "@type": "org:Organization", 
+        "name": "Advisory Committee on Student Financial Assistance (ACSFA)", 
+        "subOrganizationOf": {
+          "@type": "org:Organization", 
+          "name": "Office of Federal Student Aid (FSA)", 
+          "subOrganizationOf": {
+            "@type": "org:Organization", 
+            "name": "U.S. Government"
+          }
+        }
+      }, 
+      "contactPoint": {
+        "@type": "vcard:Contact", 
+        "fn": "stephen", 
+        "hasEmail": "mailto:stephen.datopian@gmail.com"
+      },
+      "keyword": [
+        "acsfa", 
+        "food", 
+        "hunger", 
+        "testing"
+      ], 
+      "bureauCode": [
+        "018:15"
+      ], 
+      "programCode": [
+        "018:002"
+      ],
+      "theme": [
+        "International",
+        "International",
+        "Postsecondary"
+	    ]
+    }, 
+    {
+      "@type": "dcat:Dataset", 
+      "title": "Testinging Profiles again", 
+      "description": "Testing Data Profiles again", 
+      "modified": "2021-10-25T19:42:15.193881", 
+      "accessLevel": "public", 
+      "identifier": "91f06ed1-6c44-4c16-ba83-96a81d03aeee", 
+      "license": "http://www.opendefinition.org/licenses/cc-by", 
+      "publisher": {
+        "@type": "org:Organization", 
+        "name": "Advisory Committee on Student Financial Assistance (ACSFA)", 
+        "subOrganizationOf": {
+          "@type": "org:Organization", 
+          "name": "Office of Federal Student Aid (FSA)", 
+          "subOrganizationOf": {
+            "@type": "org:Organization", 
+            "name": "U.S. Government"
+          }
+        }
+      }, 
+      "contactPoint": {
+        "@type": "vcard:Contact", 
+        "fn": "stephen", 
+        "hasEmail": "mailto:stephen.datopian@gmail.com"
+      }, 
+      "keyword": [
+        "acsfa", 
+        "food", 
+        "hunger", 
+        "testing"
+      ], 
+      "bureauCode": [
+        "018:15"
+      ], 
+      "programCode": [
+        "018:002"
+      ],
+      "theme": [
+        "International",
+        "International",
+        "Postsecondary"
+	    ]
+    }
+  ]
+}
