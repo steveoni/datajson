@@ -29,8 +29,7 @@
         "@type": "vcard:Contact", 
         "fn": "stephen", 
         "hasEmail": "mailto:stephen.datopian@gmail.com"
-      }, 
-      "isPartOf": "91f06ed1-6c44-4c16-ba83-96a81d03aeee", 
+      },
       "keyword": [
         "acsfa", 
         "food", 
@@ -42,7 +41,12 @@
       ], 
       "programCode": [
         "018:002"
-      ]
+      ],
+      "theme": [
+        "International",
+        "International",
+        "Postsecondary"
+	    ]
     }, 
     {
       "@type": "dcat:Dataset", 
@@ -80,7 +84,12 @@
       ], 
       "programCode": [
         "018:002"
-      ]
+      ],
+      "theme": [
+        "International",
+        "International",
+        "Postsecondary"
+	    ]
     }
   ]
 }
