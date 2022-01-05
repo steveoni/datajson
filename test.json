@@ -1,277 +1,63 @@
 {
-  "conformsTo": "https://project-open-data.cio.gov/v1.1/schema", 
-  "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json", 
-  "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld", 
-  "@type": "dcat:Catalog", 
-  "@id": "http://ckan-dev:5000/data.json", 
-  "dataset": [
-    {
-      "@type": "dcat:Dataset", 
-      "title": "Data Profile gen (3)", 
-      "description": "Test data profile gen", 
-      "modified": "2021-10-21T20:51:16.875419", 
-      "accessLevel": "public", 
-      "identifier": "e96202c4-cbd4-40f9-9736-9c8e97b76ee7", 
-      "license": "http://www.opendefinition.org/licenses/cc-by", 
-      "publisher": {
-        "@type": "org:Organization", 
-        "name": "Institute of Education Sciences (IES)", 
-        "subOrganizationOf": {
-          "@type": "org:Organization", 
-          "name": "U.S. Government"
-        }
-      }, 
-      "contactPoint": {
-        "@type": "vcard:Contact", 
-        "fn": "stephen", 
-        "hasEmail": "mailto:stephen.datopian@gmail.com"
-      }, 
-      "isPartOf": "data-profile-gen", 
-      "keyword": [
-        "growth", 
-        "ies", 
-        "lol"
-      ], 
-      "bureauCode": [
-        "018:15"
-      ], 
-      "programCode": [
-        "018:004"
-      ]
-    }, 
-    {
-      "@type": "dcat:Dataset", 
-      "title": "Data Profile gen (2)", 
-      "description": "Test data profile gen", 
-      "modified": "2021-10-21T20:50:30.262884", 
-      "accessLevel": "public", 
-      "identifier": "87e32074-5767-4525-b787-f84426b2d68e", 
-      "license": "http://www.opendefinition.org/licenses/cc-by", 
-      "publisher": {
-        "@type": "org:Organization", 
-        "name": "Institute of Education Sciences (IES)", 
-        "subOrganizationOf": {
-          "@type": "org:Organization", 
-          "name": "U.S. Government"
-        }
-      }, 
-      "contactPoint": {
-        "@type": "vcard:Contact", 
-        "fn": "stephen", 
-        "hasEmail": "mailto:stephen.datopian@gmail.com"
-      }, 
-      "isPartOf": "data-profile-gen-1", 
-      "keyword": [
-        "growth", 
-        "ies", 
-        "lol"
-      ], 
-      "bureauCode": [
-        "018:15"
-      ], 
-      "programCode": [
-        "018:004"
-      ]
-    }, 
-    {
-      "@type": "dcat:Dataset", 
-      "title": "Data Profile gen (1)", 
-      "description": "Test data profile gen", 
-      "modified": "2021-10-21T20:48:24.203786", 
-      "accessLevel": "public", 
-      "identifier": "7ee7822c-6982-44d5-8f3d-fc2c7f82df0f", 
-      "license": "http://www.opendefinition.org/licenses/cc-by", 
-      "publisher": {
-        "@type": "org:Organization", 
-        "name": "Institute of Education Sciences (IES)", 
-        "subOrganizationOf": {
-          "@type": "org:Organization", 
-          "name": "U.S. Government"
-        }
-      }, 
-      "contactPoint": {
-        "@type": "vcard:Contact", 
-        "fn": "stephen", 
-        "hasEmail": "mailto:stephen.datopian@gmail.com"
-      }, 
-      "isPartOf": "data-profile-gen", 
-      "keyword": [
-        "growth", 
-        "ies", 
-        "lol"
-      ], 
-      "bureauCode": [
-        "018:15"
-      ], 
-      "programCode": [
-        "018:004"
-      ]
-    }, 
-    {
-      "@type": "dcat:Dataset", 
-      "title": "Data Profile gen", 
-      "description": "Test data profile gen", 
-      "modified": "2021-10-21T20:47:51.095890", 
-      "accessLevel": "public", 
-      "identifier": "b0bfcd02-9638-4b24-a426-476f76a60765", 
-      "license": "http://www.opendefinition.org/licenses/cc-by", 
-      "publisher": {
-        "@type": "org:Organization", 
-        "name": "Institute of Education Sciences (IES)", 
-        "subOrganizationOf": {
-          "@type": "org:Organization", 
-          "name": "U.S. Government"
-        }
-      }, 
-      "contactPoint": {
-        "@type": "vcard:Contact", 
-        "fn": "stephen", 
-        "hasEmail": "mailto:stephen.datopian@gmail.com"
-      }, 
-      "distribution": [
-        {
-          "@type": "dcat:Distribution", 
-          "mediaType": "text/csv", 
-          "format": "CSV", 
-          "title": "abcTest.csv", 
-          "description": "Test dataset", 
-          "downloadURL": "http://ckan-dev:5000/dataset/b0bfcd02-9638-4b24-a426-476f76a60765/resource/8a7dc888-a660-48bf-8487-de95146b3499/download/abctest.csv"
-        }
-      ], 
-      "keyword": [
-        "growth", 
-        "ies", 
-        "lol"
-      ], 
-      "bureauCode": [
-        "018:15"
-      ], 
-      "programCode": [
-        "018:004"
-      ]
-    }, 
-    {
-      "@type": "dcat:Dataset", 
-      "title": "Data Profile with some sample test (2)", 
-      "description": "Test data profile with some sample testg", 
-      "modified": "2021-10-21T20:46:21.219434", 
-      "accessLevel": "public", 
-      "identifier": "4a442113-2f75-4a35-8084-673e8a8b60c5", 
-      "dataQuality": true, 
-      "license": "http://www.opendefinition.org/licenses/cc-by", 
-      "publisher": {
-        "@type": "org:Organization", 
-        "name": "Advisory Committee on Student Financial Assistance (ACSFA)", 
-        "subOrganizationOf": {
-          "@type": "org:Organization", 
-          "name": "Office of Federal Student Aid (FSA)", 
-          "subOrganizationOf": {
-            "@type": "org:Organization", 
-            "name": "U.S. Government"
-          }
-        }
-      }, 
-      "contactPoint": {
-        "@type": "vcard:Contact", 
-        "fn": "stephen", 
-        "hasEmail": "mailto:stephen.datopian@gmail.com"
-      }, 
-      "isPartOf": "data-profile-with-some-sample-test-1", 
-      "keyword": [
-        "acsfa", 
-        "agric", 
-        "economy"
-      ], 
-      "bureauCode": [
-        "018:15"
-      ], 
-      "programCode": [
-        "018:003"
-      ]
-    }, 
-    {
-      "@type": "dcat:Dataset", 
-      "title": "Data Profile with some sample test (1)", 
-      "description": "Test data profile with some sample testg", 
-      "modified": "2021-10-21T20:45:28.853986", 
-      "accessLevel": "public", 
-      "identifier": "e3871d52-a24c-499f-891d-4782582995bf", 
-      "dataQuality": true, 
-      "license": "http://www.opendefinition.org/licenses/cc-by", 
-      "publisher": {
-        "@type": "org:Organization", 
-        "name": "Advisory Committee on Student Financial Assistance (ACSFA)", 
-        "subOrganizationOf": {
-          "@type": "org:Organization", 
-          "name": "Office of Federal Student Aid (FSA)", 
-          "subOrganizationOf": {
-            "@type": "org:Organization", 
-            "name": "U.S. Government"
-          }
-        }
-      }, 
-      "contactPoint": {
-        "@type": "vcard:Contact", 
-        "fn": "stephen", 
-        "hasEmail": "mailto:stephen.datopian@gmail.com"
-      }, 
-      "isPartOf": "data-profile-with-some-sample-test", 
-      "keyword": [
-        "acsfa", 
-        "economy"
-      ], 
-      "bureauCode": [
-        "018:15"
-      ], 
-      "programCode": [
-        "018:003"
-      ]
-    }, 
-    {
-      "@type": "dcat:Dataset", 
-      "title": "Data Profile with some sample test", 
-      "description": "Test data profile with some sample testg", 
-      "modified": "2021-10-21T20:45:02.867776", 
-      "accessLevel": "public", 
-      "identifier": "7f1c5380-1db5-4f9b-b6c0-0b07dbf91965", 
-      "dataQuality": true, 
-      "license": "http://www.opendefinition.org/licenses/cc-by", 
-      "publisher": {
-        "@type": "org:Organization", 
-        "name": "Advisory Committee on Student Financial Assistance (ACSFA)", 
-        "subOrganizationOf": {
-          "@type": "org:Organization", 
-          "name": "Office of Federal Student Aid (FSA)", 
-          "subOrganizationOf": {
-            "@type": "org:Organization", 
-            "name": "U.S. Government"
-          }
-        }
-      }, 
-      "contactPoint": {
-        "@type": "vcard:Contact", 
-        "fn": "stephen", 
-        "hasEmail": "mailto:stephen.datopian@gmail.com"
-      }, 
-      "distribution": [
-        {
-          "@type": "dcat:Distribution", 
-          "mediaType": "text/csv", 
-          "format": "CSV", 
-          "title": "abcTest.csv", 
-          "downloadURL": "http://ckan-dev:5000/dataset/7f1c5380-1db5-4f9b-b6c0-0b07dbf91965/resource/0c8a4562-f5e4-45fb-9964-e94bca93763a/download/abctest.csv"
-        }
-      ], 
-      "keyword": [
-        "acsfa", 
-        "economy"
-      ], 
-      "bureauCode": [
-        "018:15"
-      ], 
-      "programCode": [
-        "018:003"
-      ]
-    }
+"conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+"describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+"@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+"@type": "dcat:Catalog",
+"@id": "http://ckan-dev:5000/data.json",
+"dataset": [
+{
+"@type": "dcat:Dataset",
+"title": "l0m4t7oa93k_dataset_test",
+"description": "l0m4t7oa93k_dataset_testDescription",
+"modified": "2022-01-03T11:17:35.763373",
+"accessLevel": "public",
+"identifier": "721172bd-225e-445d-901e-51e61cf189b7",
+"describedBy": "http://ckan-dev:5000/uploads/data_dictionary/2021-12-09-142421.938523example.csv",
+"describedByType": "text/csv",
+"landingPage": "http://resource-example.com/source",
+"license": "http://www.opendefinition.org/licenses/cc-by",
+"primaryITInvestmentUII": "123-465743638",
+"systemOfRecords": "http://example.com",
+"publisher": {
+"@type": "org:Organization",
+"name": "National Center for Education Research (NCER)",
+"subOrganizationOf": {
+"@type": "org:Organization",
+"name": "Institute of Education Sciences (IES)",
+"subOrganizationOf": {
+"@type": "org:Organization",
+"name": "Office of the Secretary (OS)",
+"subOrganizationOf": {
+"@type": "org:Organization",
+"name": "U.S. Department of Education",
+"subOrganizationOf": {
+"@type": "org:Organization",
+"name": "U.S. Government"
+}
+}
+}
+}
+},
+"accrualPeriodicity": "R/P4Y",
+"contactPoint": {
+"@type": "vcard:Contact",
+"fn": "Data Steward",
+"hasEmail": "mailto:data_steward@email.com"
+},
+"keyword": [
+"ncer"
+],
+"spatial": "Alaska",
+"bureauCode": [
+"018:15"
+],
+"programCode": [
+"018:001"
+],
+"theme": [
+"International",
+"Postsecondary"
+]
+},
   ]
 }
